@@ -1,0 +1,9 @@
+---
+title: "Lab8"
+author: "William Jungerman"
+date: "4/9/2017"
+output: html_document
+---
+
+
+flnrelfnerfklreflefr efvflemve
